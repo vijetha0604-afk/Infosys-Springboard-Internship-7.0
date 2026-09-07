@@ -1,8 +1,6 @@
-# Infosys-Springboard-Internship-7.0
-
 # Infosys Springboard Internship 7.0
 
-## Data Analysis and Visualization Project
+## Data Analysis and Visualization Project(SUPPLY CHAIN VISIBILITY AND OPTIMIZATION)
 
 This repository contains the work completed as part of the **Infosys Springboard Internship 7.0**.
 
